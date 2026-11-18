@@ -1,7 +1,7 @@
 # PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
 
 <h3>ENTER YOUR NAME: Rishikesh S</h3>
-<h3>ENTER YOUR REGISTER NO 212225240118</h3>
+<h3>ENTER YOUR REGISTER NO: 212225240118</h3>
 <h3>EX. NO 2 </h3>
 <h3>DATE: 18/11/2026</h3>
 <h1> <align=center> MATRIX SUMMATION WITH A 2D GRID AND 2D BLOCKS </h3>
